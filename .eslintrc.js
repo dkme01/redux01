@@ -26,5 +26,6 @@ module.exports = {
     'react/state-in-constructor': 'off',
     'react/destructuring-assignment': 'off',
     'no-throw-literal': 'off',
+    'jsx-a11y/control-has-associated-label': 'off',
   },
 };
