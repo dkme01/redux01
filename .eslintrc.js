@@ -27,5 +27,6 @@ module.exports = {
     'react/destructuring-assignment': 'off',
     'no-throw-literal': 'off',
     'jsx-a11y/control-has-associated-label': 'off',
+    'no-console': ['error', { allow: ['tron'] }],
   },
 };
